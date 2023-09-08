@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T10:37:43 AZT" name="Surefire suite" finished-at="2023-09-08T10:39:39 AZT" duration-ms="116007">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T10:37:43 AZT" name="Surefire test" finished-at="2023-09-08T10:39:39 AZT" duration-ms="116007">
+      <class name="CardsPageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:38:42 AZT" name="init" finished-at="2023-09-08T10:38:43 AZT" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="checkCardIsSelected()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:38:43 AZT" name="checkCardIsSelected" finished-at="2023-09-08T10:38:56 AZT" duration-ms="12531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCardIsSelected -->
+        <test-method is-config="true" signature="close()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:38:56 AZT" name="close" finished-at="2023-09-08T10:38:56 AZT" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="init()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:38:56 AZT" name="init" finished-at="2023-09-08T10:38:58 AZT" duration-ms="1447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="checkCardsPageTitle()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:38:58 AZT" name="checkCardsPageTitle" finished-at="2023-09-08T10:39:12 AZT" duration-ms="13721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCardsPageTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:CardsPageTest@56de5251]" started-at="2023-09-08T10:39:12 AZT" name="close" finished-at="2023-09-08T10:39:12 AZT" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- CardsPageTest -->
+      <class name="BankTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:04 AZT" name="init" finished-at="2023-09-08T10:38:06 AZT" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="checkNewWindow()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:06 AZT" name="checkNewWindow" finished-at="2023-09-08T10:38:25 AZT" duration-ms="18724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewWindow -->
+        <test-method is-config="true" signature="close()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:25 AZT" name="close" finished-at="2023-09-08T10:38:25 AZT" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="init()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:25 AZT" name="init" finished-at="2023-09-08T10:38:27 AZT" duration-ms="1616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyPage()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:27 AZT" name="verifyPage" finished-at="2023-09-08T10:38:41 AZT" duration-ms="14486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:BankTest@163e4e87]" started-at="2023-09-08T10:38:41 AZT" name="close" finished-at="2023-09-08T10:38:42 AZT" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- BankTest -->
+      <class name="IpotekaTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:IpotekaTest@419c5f1a]" started-at="2023-09-08T10:39:12 AZT" name="init" finished-at="2023-09-08T10:39:13 AZT" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="checkChoice()[pri:0, instance:IpotekaTest@419c5f1a]" started-at="2023-09-08T10:39:13 AZT" name="checkChoice" finished-at="2023-09-08T10:39:39 AZT" duration-ms="25655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkChoice -->
+        <test-method is-config="true" signature="close()[pri:0, instance:IpotekaTest@419c5f1a]" started-at="2023-09-08T10:39:39 AZT" name="close" finished-at="2023-09-08T10:39:39 AZT" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- IpotekaTest -->
+      <class name="ABBPageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:ABBPageTest@4fe767f3]" started-at="2023-09-08T10:37:43 AZT" name="init" finished-at="2023-09-08T10:37:54 AZT" duration-ms="10956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="checkPageTitle()[pri:0, instance:ABBPageTest@4fe767f3]" started-at="2023-09-08T10:37:54 AZT" name="checkPageTitle" finished-at="2023-09-08T10:38:03 AZT" duration-ms="8931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPageTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:ABBPageTest@4fe767f3]" started-at="2023-09-08T10:38:03 AZT" name="close" finished-at="2023-09-08T10:38:04 AZT" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ABBPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
